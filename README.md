@@ -23,6 +23,19 @@ Webpage & deployment : Created a webform that takes all the necessary inputs fro
 
 https://zomm45.herokuapp.com/
 
-*****UserInterface*****
+****UserInterface****
 
-"C:\Users\Hruthik Changappa K\Downloads\Zomato Rating - Google Chrome 28-10-2021 10_40_51 AM.png"
+![Zomato Rating - Google Chrome 28-10-2021 10_40_51 AM](https://user-images.githubusercontent.com/60504260/139197103-67bec8dc-c26a-4a76-8e9a-bd06d4e74605.png)
+
+****Technologies Used****
+
+1.Python
+2.Sklearn
+3.Flask
+4.Html
+5.Css
+6.Pandas, Numpy
+
+****HLD , LLD & WireFrame ,Detailed project Report, Architecture****
+
+Link :
